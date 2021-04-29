@@ -24,6 +24,10 @@ In this repository, you will find my works in src folder:
 
 * ### [CNN](https://github.com/ugurcankok/Computer_Vision/tree/master/src/CNN)
 
+ <img src="https://miro.medium.com/max/1644/1*uAeANQIOQPqWZnnuH-VEyw.jpeg" width="400" height="200">
+ 
+ 
+
 * ### [GANs](https://github.com/ugurcankok/Computer_Vision/tree/master/src/GANs)
 
 * ### [ResNet](https://github.com/ugurcankok/Computer_Vision/tree/master/src/ResNet)
