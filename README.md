@@ -16,6 +16,12 @@ In this repository, you will find my works in src folder:
 
 * ### [Autoencoder](https://github.com/ugurcankok/Computer_Vision/tree/master/src/Autoencoder)
 
+ <img src="https://miro.medium.com/max/3148/1*44eDEuZBEsmG_TCAKRI3Kw@2x.png" width="400" height="200">
+ 
+ Autoencoders are an unsupervised learning technique in which we leverage neural networks for the task of representation learning. Autoencoders are a specific type of feedforward neural networks where the input is the same as the output. They compress the input into a lower-dimensional code and then reconstruct the output from this representation. The code is a compact “summary” or “compression” of the input, also called the latent-space representation.
+ 
+ An autoencoder consists of 3 components: encoder, code and decoder. The encoder compresses the input and produces the code, the decoder then reconstructs the input only using this code.
+
 * ### [CNN](https://github.com/ugurcankok/Computer_Vision/tree/master/src/CNN)
 
 * ### [GANs](https://github.com/ugurcankok/Computer_Vision/tree/master/src/GANs)
