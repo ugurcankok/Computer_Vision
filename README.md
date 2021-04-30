@@ -26,7 +26,7 @@ In this repository, you will find my works in src folder:
 
  <img src="https://miro.medium.com/max/1644/1*uAeANQIOQPqWZnnuH-VEyw.jpeg" width="400" height="200">
  
- 
+ In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of deep neural network, most commonly applied to analyze visual imagery. CNNs are regularized versions of multilayer perceptrons. Multilayer perceptrons usually mean fully connected networks, that is, each neuron in one layer is connected to all neurons in the next layer. The "full connectivity" of these networks make them prone to overfitting data.
 
 * ### [GANs](https://github.com/ugurcankok/Computer_Vision/tree/master/src/GANs)
 
