@@ -30,4 +30,6 @@ In this repository, you will find my works in src folder:
 
 * ### [GANs](https://github.com/ugurcankok/Computer_Vision/tree/master/src/GANs)
 
+ <img src="https://www.researchgate.net/publication/340458845/figure/fig1/AS:879437700669440@1586685695381/The-architecture-of-vanilla-GANs.ppm" width="400" height="200">
+
 * ### [ResNet](https://github.com/ugurcankok/Computer_Vision/tree/master/src/ResNet)
