@@ -33,3 +33,5 @@ In this repository, you will find my works in src folder:
  <img src="https://www.researchgate.net/publication/340458845/figure/fig1/AS:879437700669440@1586685695381/The-architecture-of-vanilla-GANs.ppm" width="400" height="200">
 
 * ### [ResNet](https://github.com/ugurcankok/Computer_Vision/tree/master/src/ResNet)
+
+ <img src="https://miro.medium.com/max/1024/1*BnoNVpj7uCNMOFOj1DQBQA.png" width="400" height="200">
