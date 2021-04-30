@@ -34,4 +34,4 @@ In this repository, you will find my works in src folder:
 
 * ### [ResNet](https://github.com/ugurcankok/Computer_Vision/tree/master/src/ResNet)
 
- <img src="https://miro.medium.com/max/1024/1*BnoNVpj7uCNMOFOj1DQBQA.png" width="400" height="200">
+ <img src="https://developer.ridgerun.com/wiki/images/f/f5/Resnet_architecture.png" width="400" height="200">
