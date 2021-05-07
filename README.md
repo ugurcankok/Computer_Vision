@@ -1,5 +1,8 @@
 # Computer Vision Repository
 
+
+Computer vision is the field of computer science that focuses on replicating parts of the complexity of the human vision system and enabling computers to identify and process objects in images and videos in the same way that humans do
+
 You can look at my work on Computer Vision in this repository.
 
 In this repository, you will find my works in src folder:
