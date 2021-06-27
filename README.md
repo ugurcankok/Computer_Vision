@@ -5,7 +5,7 @@ Computer vision is the field of computer science that focuses on replicating par
 
 You can look at my work on Computer Vision in this repository.
 
-In this repository, you will find my works in src folder:
+In this repository, you will find my works in ***src*** folder:
 
 * ### [ANN](https://github.com/ugurcankok/Computer_Vision/tree/master/src/ANN)
 
