@@ -35,7 +35,7 @@ In this repository, you will find my works in ***src*** folder:
 
 * ### [GANs](https://github.com/ugurcankok/Computer_Vision/tree/master/src/GANs)
 
- <img src="https://www.researchgate.net/publication/340458845/figure/fig1/AS:879437700669440@1586685695381/The-architecture-of-vanilla-GANs.ppm" width="400" height="200">
+ <img src="https://www.researchgate.net/publication/340458845/figure/fig1/AS:879437700669440@1586685695381/The-architecture-of-vanilla-GANs_W640.jpg" width="400" height="200">
  
  Generative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.
  
