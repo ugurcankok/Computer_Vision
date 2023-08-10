@@ -47,9 +47,5 @@ In this repository, you will find my works in ***src*** folder:
  
  In order to solve the problem of the vanishing/exploding gradient, this architecture introduced the concept called Residual Network. In this network we use a technique called skip connections . The skip connection skips training from a few layers and connects directly to the output. The approach behind this network is instead of layers learn the underlying mapping, we allow network fit the residual mapping. So, instead of say H(x), initial mapping, let the network fit, F(x) := H(x) – x which gives H(x) := F(x) + x.
  
- The advantage of adding this type of skip connection is because if any layer hurt the performance of architecture then it will be skipped by regularization. So, this results in training very deep neural network without the problems caused by vanishing/exploding gradient
-
-* ### [OpenCv](https://github.com/ugurcankok/Computer_Vision/tree/master/src/OpenCv)
-  
- <img src="https://pyimagesearch.com/wp-content/uploads/2018/05/opencv_tutorial_header.jpg" width="400" height="200">
+ The advantage of adding this type of skip connection is because if any layer hurt the performance of architecture then it will be skipped by regularization. So, this results in training very deep neural network without the problems caused by vanishing/exploding gradient.
   
